@@ -12,7 +12,9 @@ Table of contents:
 - Data:
   I used data from the NeuroSynth: an open source platform Neurosynth for automatically synthesizing the results of many different neuroimaging studies. 
 - Jupyter Notebook:
-  I used VS code to run my Conda environment and worked inside a Jupyter Notebook [(HomeAssignment.ipynb)](https://github.com/MarjetVU/Incentive-Delay-Mapped-in-the-Brain/blob/main/HomeAssignment.ipynb) to write my code.
+  I used VS code to run my Conda environment and worked inside a Jupyter Notebook called [(HomeAssignment.ipynb)](https://github.com/MarjetVU/Incentive-Delay-Mapped-in-the-Brain/blob/main/HomeAssignment.ipynb).
+- Pull request:
+  I did a [Pull Request](https://github.com/MarjetVU/Incentive-Delay-Mapped-in-the-Brain/blob/main/Pull%20request%20Merel%20van%20Steenis.tiff) via GitHub for Merel van Steenis' page.
 
 Python packages used:
 - Python version 3.12.4
